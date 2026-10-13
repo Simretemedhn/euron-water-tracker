@@ -1,0 +1,5 @@
+venv/
+.env
+__pycache__/
+water_tracker.db
+app.log
